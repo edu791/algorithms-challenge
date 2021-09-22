@@ -1,0 +1,1 @@
+Get the biggest number of an array, but it must be iterated once.

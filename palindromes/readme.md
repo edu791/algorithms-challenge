@@ -1,0 +1,1 @@
+Check if a word is a palindrome. It means that string should be equal if it's read in reverse. Example: "level", "noon"

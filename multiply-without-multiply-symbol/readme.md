@@ -1,0 +1,1 @@
+Multiply two numbers without usings the multiply operator (*)
