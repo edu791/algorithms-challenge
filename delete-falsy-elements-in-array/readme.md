@@ -1,0 +1,1 @@
+Iterate an array once and delete all the 'undefined', 'false', '0' and 'null'
