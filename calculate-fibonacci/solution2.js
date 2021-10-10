@@ -1,3 +1,4 @@
+// Using memoization
 
 function fib(num, memo = {}) {
   if (num in memo) return memo[num];
