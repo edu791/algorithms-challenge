@@ -1,0 +1,1 @@
+Given an array of numbers. Create an algorithm that receives a number X and returns two indexes of the array that sums the X value, but using only 1 FOR loop.
